@@ -15,4 +15,5 @@ Feature Detection is an eventual idea that I would like to dive into because a m
 
 ##Example
 Powershell:	java filters w example.jpg example1.jpg
+
 For other options: java filters
